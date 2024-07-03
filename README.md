@@ -20,7 +20,7 @@
 Для запуска проекта локально требуется наличие Python, Docker и Docker Compose на вашем компьютере. Следуйте инструкциям ниже:
 
    ```bash
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/GavrilenkoDS/fastapi-mem
    cd repository
    docker-compose up --build
     
